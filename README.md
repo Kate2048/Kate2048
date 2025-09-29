@@ -46,9 +46,9 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevJaiswal&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kate2048&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VasudevJaiswal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kate2048&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
